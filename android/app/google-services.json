@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "931192416251",
+    "project_id": "fitri-sagita-uas",
+    "storage_bucket": "fitri-sagita-uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931192416251:android:9ee12b578b6924e309cd5e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mobpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931192416251-rssjmi4d2i4rdodvmmhfn47h8bkuavcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc5hs5SWIWf8bpDfX7fEa-TQsgmvZn5K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931192416251-rssjmi4d2i4rdodvmmhfn47h8bkuavcq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931192416251-7bvprfe16ja6g50j08psmtnp9jk79l2i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterMobpro.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
